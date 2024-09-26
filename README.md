@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JZanataNeto
-- 👀 I’m interested in front end
-- 🌱 I’m currently learning software development
-- 📫 How to reach me cartasdojoao@gmail.com
+**Jogo do Número Secreto**
+
+Projeto utilizado no curso de lógica da programação da Alura
+
+Tecnologias: HTML, CSS e JAVASCRIPT
